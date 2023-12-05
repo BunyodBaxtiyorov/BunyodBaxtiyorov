@@ -1,5 +1,5 @@
 <h3 align="center">
-    Welcome to Bunyod Baxtiyorov profile!
+    Welcome to Bunyod Baxtiyorov's profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h3>
 
